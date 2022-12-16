@@ -1,0 +1,9 @@
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\entity\Banco.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\controllers\ClienteController.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\dao\ClienteDaoImpl.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\dao\IClienteDao.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\entity\Empleado.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\entity\Cuenta.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\SpringBootDataJpaApplication.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\entity\Tarjeta.java
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\spring-data-jpa\src\main\java\com\bancoTUGR\springboot\app\models\entity\Cliente.java
